@@ -2121,9 +2121,16 @@
     <Content Include="fontawesome\svgs\solid\yen-sign.svg" />
     <Content Include="fontawesome\svgs\solid\yin-yang.svg" />
     <Content Include="fontawesome\svgs\solid\z.svg" />
+    <Content Include="imgs\adminpng.png" />
     <Content Include="imgs\homebg.png" />
     <Content Include="imgs\icon_ib.png" />
     <Content Include="imgs\in-homepage-banner.jpg" />
+    <Content Include="imgs\loan.jpg" />
+    <Content Include="imgs\myac.jpg" />
+    <Content Include="imgs\pp.jpg" />
+    <Content Include="imgs\signup.png" />
+    <Content Include="imgs\tr.png" />
+    <Content Include="imgs\visitus.jpg" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
     <Content Include="homepage.aspx" />

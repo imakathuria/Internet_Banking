@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <section>
-        <img src="imgs/homebg.png" class="img-fluid"/>
+        <img src="imgs/homebg.png" width="100%" class="img-fluid"/>
    </section>
     <section>
       <div class="container">
@@ -18,23 +18,23 @@
          <div class="row">
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/digital-inventory.png"/>
-                  <h4>Digital Book Inventory</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                   <img  width="150px" src="imgs/tr.png" />
+                  <h4>See All Transactions</h4>
+                  <p class="text-justify">Hello World!</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/search-online.png"/>
-                  <h4>Search Books</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                  <img  width="150px" src="imgs/pp.jpg" />
+                  <h4>Print/Update passbook</h4>
+                  <p class="text-justify">Hello World!</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/defaulters-list.png"/>
-                  <h4>Defaulter List</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                  <img  width="150px" src="imgs/loan.jpg" />
+                  <h4>Get Loan</h4>
+                  <p class="text-justify">Hello World!</p>
                </center>
             </div>
          </div>
@@ -56,23 +56,24 @@
          <div class="row">
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/sign-up.png" />
+                  <%--<img  src="imgs/sign-up.png" />--%>
+                   <img width="150px" src="imgs/signup.png" />
                   <h4>Sign Up</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                  <p class="text-justify">User can easily create a new account and avail the E-banking services.</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/search-online.png"/>
-                  <h4>Search Books</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                   <img width="150px" src="imgs/myac.jpg" />
+                  <h4>Get Account Details</h4>
+                  <p class="text-justify">Hello World!</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/library.png"/>
+                   <img width="150px" src="imgs/visitus.jpg" />
                   <h4>Visit Us</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                  <p class="text-justify">Hello World!</p>
                </center>
             </div>
          </div>

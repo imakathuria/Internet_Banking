@@ -13,5 +13,11 @@ namespace Internet_Banking
         {
 
         }
+
+        protected void LinkButton2_Click(object sender, EventArgs e)
+        {
+            // Server.Transfer("userlogin.aspx");
+             Response.Redirect("/userlogin.aspx",true);
+        }
     }
 }

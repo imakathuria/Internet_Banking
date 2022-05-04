@@ -10,7 +10,7 @@
                   <div class="row">
                      <div class="col">
                         <center>
-                           <img width="150px" src="imgs/adminuser.png"/>
+                            <img width="150px" src="imgs/adminpng.png" style=" border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%;"/>
                         </center>
                      </div>
                   </div>
@@ -28,14 +28,18 @@
                   </div>
                   <div class="row">
                      <div class="col">
-                        <label>Admin ID</label>
+                        <%--<label>Admin ID</label>--%>
                         <div class="form-group">
                            <asp:TextBox CssClass="form-control" ID="TextBox1" runat="server" placeholder="Admin ID"></asp:TextBox>
                         </div>
-                        <label>Password</label>
+                         <br />
+
+                        <%--<label>Password</label>--%>
                         <div class="form-group">
                            <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
                         </div>
+                         <br />
+
                         <div class="form-group">
                            <asp:Button class="btn btn-success btn-block btn-lg" ID="Button1" runat="server" Text="Login" />
                         </div>
